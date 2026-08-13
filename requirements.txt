@@ -1,0 +1,19 @@
+# Core
+numpy
+torch>=2.5.0
+opencv-python
+Pillow
+tqdm
+scikit-learn        # DBSCAN clustering in track_marker
+imageio             # frame/GIF I/O in visualization utilities
+matplotlib          # M(t) plots in visualization utilities
+
+# Local open MLLM (Qwen3-VL runners)
+transformers>=4.57.0
+
+# Remote OpenAI-compatible MLLM (GPT runners)
+requests
+
+# The frozen point tracker (CoTracker3) is an external dependency — install it
+# from its official repository and place its checkpoint where --cotracker_ckpt
+# points. See README.

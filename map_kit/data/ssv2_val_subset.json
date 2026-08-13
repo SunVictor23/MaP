@@ -1,0 +1,202 @@
+[
+  {
+    "video_id": "121345",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving something away from the camera",
+      "B": "Approaching something with your camera",
+      "C": "Showing something to the camera",
+      "D": "Moving away from something with your camera"
+    },
+    "candidates": [
+      "Moving something away from the camera",
+      "Approaching something with your camera",
+      "Showing something to the camera",
+      "Moving away from something with your camera"
+    ],
+    "answer": "B",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching water pipe with your camera"
+  },
+  {
+    "video_id": "65968",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving away from something with your camera",
+      "B": "Showing something to the camera",
+      "C": "Moving something away from the camera",
+      "D": "Approaching something with your camera"
+    },
+    "candidates": [
+      "Moving away from something with your camera",
+      "Showing something to the camera",
+      "Moving something away from the camera",
+      "Approaching something with your camera"
+    ],
+    "answer": "D",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching wardrobe with your camera"
+  },
+  {
+    "video_id": "42956",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Showing something to the camera",
+      "B": "Moving away from something with your camera",
+      "C": "Approaching something with your camera",
+      "D": "Moving something away from the camera"
+    },
+    "candidates": [
+      "Showing something to the camera",
+      "Moving away from something with your camera",
+      "Approaching something with your camera",
+      "Moving something away from the camera"
+    ],
+    "answer": "C",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching keys with your camera"
+  },
+  {
+    "video_id": "12873",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Approaching something with your camera",
+      "B": "Showing something to the camera",
+      "C": "Moving away from something with your camera",
+      "D": "Moving something away from the camera"
+    },
+    "candidates": [
+      "Approaching something with your camera",
+      "Showing something to the camera",
+      "Moving away from something with your camera",
+      "Moving something away from the camera"
+    ],
+    "answer": "A",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching washing machine with your camera"
+  },
+  {
+    "video_id": "75372",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving something away from the camera",
+      "B": "Approaching something with your camera",
+      "C": "Moving away from something with your camera",
+      "D": "Showing something to the camera"
+    },
+    "candidates": [
+      "Moving something away from the camera",
+      "Approaching something with your camera",
+      "Moving away from something with your camera",
+      "Showing something to the camera"
+    ],
+    "answer": "B",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching bag with your camera"
+  },
+  {
+    "video_id": "154955",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Approaching something with your camera",
+      "B": "Showing something to the camera",
+      "C": "Moving away from something with your camera",
+      "D": "Moving something away from the camera"
+    },
+    "candidates": [
+      "Approaching something with your camera",
+      "Showing something to the camera",
+      "Moving away from something with your camera",
+      "Moving something away from the camera"
+    ],
+    "answer": "A",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching bottle with your camera"
+  },
+  {
+    "video_id": "40471",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving away from something with your camera",
+      "B": "Moving something away from the camera",
+      "C": "Approaching something with your camera",
+      "D": "Showing something to the camera"
+    },
+    "candidates": [
+      "Moving away from something with your camera",
+      "Moving something away from the camera",
+      "Approaching something with your camera",
+      "Showing something to the camera"
+    ],
+    "answer": "C",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching water bottle with your camera"
+  },
+  {
+    "video_id": "91078",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving away from something with your camera",
+      "B": "Showing something to the camera",
+      "C": "Approaching something with your camera",
+      "D": "Moving something away from the camera"
+    },
+    "candidates": [
+      "Moving away from something with your camera",
+      "Showing something to the camera",
+      "Approaching something with your camera",
+      "Moving something away from the camera"
+    ],
+    "answer": "C",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching wardrobe key with your camera"
+  },
+  {
+    "video_id": "22465",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Approaching something with your camera",
+      "B": "Moving away from something with your camera",
+      "C": "Showing something to the camera",
+      "D": "Moving something away from the camera"
+    },
+    "candidates": [
+      "Approaching something with your camera",
+      "Moving away from something with your camera",
+      "Showing something to the camera",
+      "Moving something away from the camera"
+    ],
+    "answer": "A",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching flowers with your camera"
+  },
+  {
+    "video_id": "50577",
+    "question": "What is the person doing in the video?",
+    "options": {
+      "A": "Moving something away from the camera",
+      "B": "Showing something to the camera",
+      "C": "Approaching something with your camera",
+      "D": "Moving away from something with your camera"
+    },
+    "candidates": [
+      "Moving something away from the camera",
+      "Showing something to the camera",
+      "Approaching something with your camera",
+      "Moving away from something with your camera"
+    ],
+    "answer": "C",
+    "answer_text": "Approaching something with your camera",
+    "gt_template": "Approaching something with your camera",
+    "label_text": "approaching sandal for men with your camera"
+  }
+]
