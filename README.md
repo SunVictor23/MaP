@@ -175,7 +175,7 @@ python -m map_kit.benchmarks.score_mvbench --output_path predictions/map-clevrer
 
 ```bash
 bash scripts/run_ssv2_parallel.sh adaptive <qwen3vl_ckpt> map-ssv2-adaptive 1
-
+```
 
 **TempCompass** — used to confirm that motion-guided sampling does not degrade general (non-motion) video reasoning:
 
